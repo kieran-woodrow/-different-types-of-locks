@@ -10,8 +10,7 @@ Implementation of more concurrency locks.
 - [Technology Stack](#-technology-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Running the Project](#-running-the-project)
-- [Screenshots](#-screenshots)
+
 ---
 
 ## 📚 Project Overview
@@ -47,15 +46,3 @@ Can be run in vs code or terminal.
 
 ---
 
-## 🏃🏻‍♂️ Running The Project
-
-1. Run the ThreadDemoCounter.java file for task 1
-2. Run the ThreadDemoCounter.java file for task 2
-3. Run the ThreadDemoCounter.java file for task 3
-4. Run the ThreadDemoCounter.java file for task 3
-5. 
----
-
-## 📷 Screenshots
-
-![threads]()
